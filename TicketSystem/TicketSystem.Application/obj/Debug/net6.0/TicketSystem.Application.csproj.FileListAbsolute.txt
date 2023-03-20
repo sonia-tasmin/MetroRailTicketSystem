@@ -1,0 +1,34 @@
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Application.deps.json
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Application.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Application.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\Shared.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Core.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Core.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\Shared.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.csproj.AssemblyReference.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.AssemblyInfoInputs.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.AssemblyInfo.cs
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.csproj.CoreCompileInputs.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.csproj.CopyComplete
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\refint\TicketSystem.Application.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\ref\TicketSystem.Application.dll
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Application.deps.json
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Application.dll
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Application.pdb
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\Shared.dll
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Core.dll
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\TicketSystem.Core.pdb
+E:\project\TicketSystem\TicketSystem.Application\bin\Debug\net6.0\Shared.pdb
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.csproj.AssemblyReference.cache
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.AssemblyInfoInputs.cache
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.AssemblyInfo.cs
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.csproj.CoreCompileInputs.cache
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.csproj.CopyComplete
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.dll
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\refint\TicketSystem.Application.dll
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\TicketSystem.Application.pdb
+E:\project\TicketSystem\TicketSystem.Application\obj\Debug\net6.0\ref\TicketSystem.Application.dll

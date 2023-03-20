@@ -1,0 +1,24 @@
+F:\New folder (2)\TicketSystem\TicketSystem.Core\bin\Debug\net6.0\TicketSystem.Core.deps.json
+F:\New folder (2)\TicketSystem\TicketSystem.Core\bin\Debug\net6.0\TicketSystem.Core.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Core\bin\Debug\net6.0\TicketSystem.Core.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.csproj.AssemblyReference.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.AssemblyInfoInputs.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.AssemblyInfo.cs
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.csproj.CoreCompileInputs.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\refint\TicketSystem.Core.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\ref\TicketSystem.Core.dll
+E:\project\TicketSystem\TicketSystem.Core\bin\Debug\net6.0\TicketSystem.Core.deps.json
+E:\project\TicketSystem\TicketSystem.Core\bin\Debug\net6.0\TicketSystem.Core.dll
+E:\project\TicketSystem\TicketSystem.Core\bin\Debug\net6.0\TicketSystem.Core.pdb
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.csproj.AssemblyReference.cache
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.AssemblyInfoInputs.cache
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.AssemblyInfo.cs
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.csproj.CoreCompileInputs.cache
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.dll
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\refint\TicketSystem.Core.dll
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\TicketSystem.Core.pdb
+E:\project\TicketSystem\TicketSystem.Core\obj\Debug\net6.0\ref\TicketSystem.Core.dll

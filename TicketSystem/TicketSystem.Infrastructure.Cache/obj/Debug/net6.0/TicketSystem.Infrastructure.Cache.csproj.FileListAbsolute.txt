@@ -1,0 +1,38 @@
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Infrastructure.Cache.deps.json
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Infrastructure.Cache.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Infrastructure.Cache.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\Shared.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Application.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Core.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Application.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\Shared.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Core.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.csproj.AssemblyReference.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.AssemblyInfoInputs.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.AssemblyInfo.cs
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.csproj.CoreCompileInputs.cache
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.csproj.CopyComplete
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\refint\TicketSystem.Infrastructure.Cache.dll
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.pdb
+F:\New folder (2)\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\ref\TicketSystem.Infrastructure.Cache.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Infrastructure.Cache.deps.json
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Infrastructure.Cache.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Infrastructure.Cache.pdb
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\Shared.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Application.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Core.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Application.pdb
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\Shared.pdb
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\bin\Debug\net6.0\TicketSystem.Core.pdb
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.csproj.AssemblyReference.cache
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.AssemblyInfoInputs.cache
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.AssemblyInfo.cs
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.csproj.CoreCompileInputs.cache
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.csproj.CopyComplete
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\refint\TicketSystem.Infrastructure.Cache.dll
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\TicketSystem.Infrastructure.Cache.pdb
+E:\project\TicketSystem\TicketSystem.Infrastructure.Cache\obj\Debug\net6.0\ref\TicketSystem.Infrastructure.Cache.dll

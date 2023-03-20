@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jOonE3FmqOGBuyAVEM57NmenrYZOdYklJvPpZeA/8x4oPH2NmieeqdO/A6qt0gkHf9sxakuuyRNBojD+S7c0tw==",
+  "success": true,
+  "projectFilePath": "E:\\project\\TicketSystem\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sonia\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\sonia\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\sonia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
