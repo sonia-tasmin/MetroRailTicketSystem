@@ -12,6 +12,8 @@ angular 15 was used for the frontend and  ASP.Net core 6 and Dapper for backend.
 
 •	Search option
 
+
+
 **For TicketSystem Backend Architecture:**
 
 clean architecture, mediatR, CQRS pattern, jwt
