@@ -1,6 +1,6 @@
 # MetroRailTicketSystem
 
-###Description and features:
+###Description and features:###
 
 angular 15 was used for the frontend and ASP.Net core 6 and Dapper for backend.
 
